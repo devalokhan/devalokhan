@@ -1,5 +1,5 @@
 <h1 align="center">Hello  👋, This is Muhammad Al Amin</h1>
-<h3 align="center">Professional Web Developer| Clean Code | Web Solution|</h3>
+<h3 align="center">Professional Web Developer| Clean Code | Web Solution| Beautiful Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devalokhan&label=Profile%20views&color=0e75b6&style=flat" alt="devalokhan" /> </p>
 
